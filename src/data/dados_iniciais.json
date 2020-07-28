@@ -1,0 +1,166 @@
+{
+  "categorias": [
+    {
+      "titulo": "Caminhão",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "chevrolet",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Amantes de caminhões #SenteAPressãoNenem",
+          "url": "https://www.youtube.com/watch?v=RSPUOEBsAnY"
+        },
+        {
+          "titulo": "MUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDA",
+          "url": "https://www.youtube.com/watch?v=YAlKZ9Am7Go"
+        },
+        {
+          "titulo": "MUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDA",
+          "url": "https://www.youtube.com/watch?v=YAlKZ9Am7Go"
+        },
+        {
+          "titulo": "MUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDA",
+          "url": "https://www.youtube.com/watch?v=YAlKZ9Am7Go"
+        },
+        {
+          "titulo": "MUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDAMUDA",
+          "url": "https://www.youtube.com/watch?v=YAlKZ9Am7Go"
+        }  
+      ]
+    },
+    {
+      "titulo": "oãhnimac",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Me ajuda pfvr",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=ioL2bqlseKA"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=xAXQkTPIBYY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=q6EoRBvdVPQ"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=kZ65tfEv-m4"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=Ejv0Gk-mGko"
+        }
+      ]
+    },
+    {
+      "titulo": "gastrite",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "cuidado, isso mata",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=KN5u6JNJW34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=l8NXPCap1DU"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=OnXulQOwEHM"
+        }
+
+      ]
+    },
+    {
+      "titulo": "Tutoriais",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "auga",
+          "url": "https://www.youtube.com/watch?v=bCkCWnmAD-o"
+        },
+        {
+          "titulo": "respirar",
+          "url": "https://www.youtube.com/watch?v=Hg469wSrZhI"
+        },
+        {
+          "titulo": "letche",
+          "url": "https://www.youtube.com/watch?v=lyWCQezJ-6c"
+        },
+        {
+          "titulo": "kkkk a cara desse porra",
+          "url": "https://www.youtube.com/watch?v=vUhewhyJidc"
+        }
+      ]
+    },
+    {
+      "titulo": "top Builds",
+      "cor": "red",
+      "link_extra": {
+        "text": "ds2",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Lanças Sombrias",
+          "url": "https://www.youtube.com/watch?v=agrcgIe03k0"
+        },
+        {
+          "titulo": "Arco",
+          "url": "https://www.youtube.com/watch?v=pW6dLZEoF9Q"
+        },
+        {
+          "titulo": "soco",
+          "url": "https://www.youtube.com/watch?v=AHfXMCpiy3A"
+        },
+        {
+          "titulo": "????",
+          "url": "https://www.youtube.com/watch?v=gYonbsjqnfs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
